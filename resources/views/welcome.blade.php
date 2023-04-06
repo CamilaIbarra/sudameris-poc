@@ -90,8 +90,8 @@
         </div>
         <div class="md:w-1/2 px-10">
             <h2 class="font-bold text-2xl text-zinc-700">Terminos y condiciones</h2>
-            <div class="flex flex-col gap-20">
-                <div class="m-2 h-72 rounded-sm overflow-y-scroll-auto">
+            <div class="flex flex-col gap-5">
+                <div class="m-2 h-72 rounded-sm overflow-y-scroll">
                     <small class="text-zinc-600">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga consequatur architecto perspiciatis inventore amet totam. Aspernatur, ullam tenetur ad cupiditate earum natus amet veniam, molestiae, rerum in dicta aliquam vitae.
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit soluta earum reiciendis non eos exercitationem illum pariatur! Magnam nemo ducimus assumenda quia pariatur optio deserunt suscipit, nobis vitae obcaecati neque?
